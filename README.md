@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Redbeard86
-- 👀 I’m interested in Cybersecurity and online learning.
+- 👀 I’m interested in cybersecurity and online learning.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me johnpmills86@gmail.com
 
